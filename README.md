@@ -4,6 +4,8 @@
 ## Introduction
 
 In the digital age, personalization is key to enhancing customer experience and driving sales. This project focuses on developing a hyper-personalized recommendation chatbot for Home Depot using advanced AI techniques. Leveraging the Home Depot Products dataset from Kaggle, the chatbot will provide tailored product suggestions, thereby transforming customer interactions and boosting sales. The system is built using large language models (LLMs), chunking, sentence transformers, FAISS, GPT Turbo, and Streamlit.
+
+
 <img width="1321" alt="Screenshot 2024-07-11 at 9 19 01 AM" src="https://github.com/Swati-Shiriyannavar/Hyper-Personalized-Home-Depot-Recommendation-Chatbot/assets/75442865/002d89f4-1124-4dd1-aa46-c0e90cf88aa9">
 
 ![image](https://github.com/Swati-Shiriyannavar/Hyper-Personalized-Home-Depot-Recommendation-Chatbot/assets/75442865/884ec0f6-1644-49bf-8ab8-48dba0c07b6a)
